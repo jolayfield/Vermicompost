@@ -1,5 +1,13 @@
-
+---
+title: "First Post"
+date:   2023-03-20
+author: Josh Layfield
+---
 This site will be used to document my journey through vermicomposting and also to fight writer's block when I don't want to write professionally. 
+
+## The What
+
+I am going to use this site to document my progress in starting a vermi compost bin ("worm farm") to use as a way to fertilize our expanding garden and to help reduce the amount of food waste that we send to a landfill. Since St. Paul doesn't 
 
 
 ## The Why
