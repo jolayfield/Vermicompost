@@ -5,7 +5,7 @@ url: "https://jolayfield.github.io" # the base hostname & protocol for your site
 github_username:  jolayfield   
 tagline: A Worm Blog
 author: Joshua Layfield 
-theme: jekyll-theme-leap-day
+theme: leap-day
 # Build settings
 #theme: minima
 plugins:
