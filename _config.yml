@@ -6,6 +6,6 @@ github_username:  jolayfield
 tagline: A Worm Blog
 author: Joshua Layfield 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
 - jekyll-feed
