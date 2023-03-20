@@ -1,6 +1,6 @@
 title: Vermicompost
 email: jolayfield@gmail.com
-baseurl: "/Vermicompost" # the subpath of your site, e.g. /blog
+baseurl: "/vermicompost" # the subpath of your site, e.g. /blog
 url: "https://jolayfield.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jolayfield   
 tagline: A Worm Blog
