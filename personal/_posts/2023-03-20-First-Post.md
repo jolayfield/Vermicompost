@@ -14,16 +14,4 @@ I am going to use this site to document my progress in starting a vermi compost 
 
 My interest in composting started after reading some books during the winter of 2022-23. As of the time of writing, it has been the 8th snowiest winter in the Twin Cities. We have been cooped up for a long time (111 straight days with at least an inch of snow on the ground!!!) and I was spending too much time on my phone and with my ear buds listening to podcasts/e-books. 
 
-I thought that it would be helpful for me to pursue a hobby that would be decidedly "physical" and would also be a way for me to engage my boys with a project that would be better than talking about PJ Masks or the latest Retrobowl developments. I settled on setting up a bird feeder with my 4 year old and trying to engage my 7 year old with starting a "worm farm". The boys are only mildly excited at this point but I hope as the number of worms grow they will get more into the process. 
-
-## Initial Setup 
-
-I picked up my 7 year old from school early one Friday, and we went to Target to get the basic supplies that we needed to get the initial bin started. We have started with a stacked bin construction that is very similar to one that I found on the Epic Gardening:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UaajjQ0FhM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Both boys enjoyed drilling holes in the plastic totes and we got everything stacked and put together that weekend. The biggest issue that we faced was that you need to get the microbial processes started before you add worms and that you 
-
-
-
-We drilled I have built my basic understanding from two m
+I thought that it would be helpful for me to pursue a hobby that would be decidedly "physical" and would also be a way for me to engage my boys with a project that would be better than talking about PJ Masks or the latest Retrobowl developments. I settled on setting up a bird feeder with my 4 year old and trying to engage my 7 year old with starting a "worm farm". The boys are only mildly excited at this point, but I hope as the number of worms grow they will get more into the process. 
