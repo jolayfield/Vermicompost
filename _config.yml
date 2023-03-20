@@ -6,7 +6,6 @@ github_username:  jolayfield
 tagline: A Worm Blog
 author: Joshua Layfield 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+theme: minimal
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
