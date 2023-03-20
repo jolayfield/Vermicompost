@@ -5,8 +5,9 @@ url: "https://jolayfield.github.io" # the base hostname & protocol for your site
 github_username:  jolayfield   
 tagline: A Worm Blog
 author: Joshua Layfield 
-theme: leap-day
 # Build settings
 #theme: minima
+remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
