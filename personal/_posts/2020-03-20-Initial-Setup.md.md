@@ -2,6 +2,7 @@
 title: "Initial Setup"
 date:   2023-03-20
 author: Josh Layfield
+layout: post
 ---
 
 ## Initial Setup 

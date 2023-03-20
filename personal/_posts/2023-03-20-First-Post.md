@@ -2,6 +2,7 @@
 title: "First Post"
 date:   2023-03-20
 author: Josh Layfield
+layout: post
 ---
 This site will be used to document my journey through vermicomposting and also to fight writer's block when I don't want to write professionally. 
 
