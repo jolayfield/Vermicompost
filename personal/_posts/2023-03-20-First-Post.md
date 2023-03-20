@@ -18,4 +18,6 @@ I thought that it would be helpful for me to pursue a hobby that would be decide
 
 ## Initial Setup 
 
-I picked up my 7 year old from school early one Friday and we went to Target to get the basic supplies that we needed to get the initial bin started. We drilled I have built my basic understanding from two m
+I picked up my 7 year old from school early one Friday, and we went to Target to get the basic supplies that we needed to get the initial bin started. We have started with a stacked bin construction that is very similar to one that I found on the [Epic Gardening Youtube Page] (https://www.youtube.com/watch?v=UaajjQ0FhM4).  Both boys enjoyed drilling holes in the plastic totes and we got everything stacked and put together that weekend. 
+
+We drilled I have built my basic understanding from two m
