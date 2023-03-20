@@ -7,6 +7,6 @@ tagline: A Worm Blog
 author: Joshua Layfield 
 theme: jekyll-theme-leap-day
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
