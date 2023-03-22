@@ -17,6 +17,6 @@ Both boys enjoyed drilling holes in the plastic totes and we got everything stac
 
 ### How do we address these issues? 
 
-1) We star
+1) We need to provide an environment that provides 
 
 
